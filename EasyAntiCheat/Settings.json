@@ -1,0 +1,9 @@
+{
+	"productid"										: "a4a57ff548934dbeba0cc7c62cdf9f34",
+	"sandboxid"										: "198988a88fe34e3e91ed15f7c91a15b1",
+	"deploymentid"                                  : "76151011566a4757ae955b380b05c378",
+	"title"											: "VRChat",
+	"executable"									: "VRChat.exe",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "false"
+}
